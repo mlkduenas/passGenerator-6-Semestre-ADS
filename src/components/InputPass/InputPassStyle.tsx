@@ -2,7 +2,7 @@ import { StyleSheet } from "react-native";
 
 export const styles = StyleSheet.create({
     inputer: {
-        width: '100%',
+        width: '90%',
         backgroundColor: '#4e4e4e',
         fontWeight: 'bold',
         fontSize: 18,
